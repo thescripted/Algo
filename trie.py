@@ -1,9 +1,11 @@
 """Creating a trie data structure in Python"""
 
+
 class Node:
     def __init__(self, children, isWord):
         self.children = children
         self.isWord = isWord
+
 
 class Solution:
     def __init__(self):
@@ -18,7 +20,6 @@ class Solution:
                     current.children[char] = Node({}, False)
                 current = current.children[char]
             current.isWord = True
-
 
     def autocomplete(self, prefix):
         current = self.trie
