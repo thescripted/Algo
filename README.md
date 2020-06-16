@@ -1,4 +1,4 @@
-# yeetLEET
-Leetcode documentations please ignore
+# Leetcode 
 
-Nothing of value is within this file
+I am documenting my solution and insights into all Leetcode problems that I attempt to solve.
+
