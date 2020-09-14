@@ -1,4 +1,5 @@
-# Leetcode 
+# Solutions & Implementation of Common Algorithms
 
-I am documenting my solution and insights into all Leetcode problems that I attempt to solve.
+Documentation for Algorithm/Data Structures, including OOP principles as well. 
 
+Sourced from Cracking the Coding Interview and Leetcode.
