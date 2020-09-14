@@ -23,7 +23,7 @@ class Duplicates:
             if current not in visited_node:
                visited_node.add(current)
                prev = current
-            else:
+                else:
                 prev.next = current.next
             current = current.next
         return root
