@@ -17,6 +17,6 @@ function binarySearchList(arr: number[], v: number): number{
     return -1;
 }
 
-const list = [1, 5, 7, 9, 11, 15, 17];
+const list = [1, 5, 7, 9, 11, 15, 18];
 
 console.log(binarySearchList(list, 17));
